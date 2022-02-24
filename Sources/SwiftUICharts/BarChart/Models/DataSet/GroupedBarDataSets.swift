@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import Combine
 
 /**
  Main data set for a grouped bar charts.
