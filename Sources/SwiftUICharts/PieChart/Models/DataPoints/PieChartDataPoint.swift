@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import UIKit
 
 /**
  Data for a single segement of a pie chart.
